@@ -1,1 +1,0 @@
-powershell -c "(New-Object Media.SoundPlayer 'C:\Users\38063\Desktop\delo-sdelano.wav.wav').PlaySync();"

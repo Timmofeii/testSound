@@ -1,3 +1,1 @@
-@echo off
-:: Проигрывание звука с использованием команды PowerShell
 powershell -c "(New-Object Media.SoundPlayer 'C:\Users\38063\Desktop\delo-sdelano.wav.wav').PlaySync();"

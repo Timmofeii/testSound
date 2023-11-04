@@ -1,0 +1,14 @@
+C:\Users\38063\Desktop\testSound\TestMatrix\bin\Debug\net7.0\TestMatrix.exe
+C:\Users\38063\Desktop\testSound\TestMatrix\bin\Debug\net7.0\TestMatrix.deps.json
+C:\Users\38063\Desktop\testSound\TestMatrix\bin\Debug\net7.0\TestMatrix.runtimeconfig.json
+C:\Users\38063\Desktop\testSound\TestMatrix\bin\Debug\net7.0\TestMatrix.dll
+C:\Users\38063\Desktop\testSound\TestMatrix\bin\Debug\net7.0\TestMatrix.pdb
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.AssemblyInfoInputs.cache
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.AssemblyInfo.cs
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.csproj.CoreCompileInputs.cache
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.dll
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\refint\TestMatrix.dll
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.pdb
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\TestMatrix.genruntimeconfig.cache
+C:\Users\38063\Desktop\testSound\TestMatrix\obj\Debug\net7.0\ref\TestMatrix.dll
